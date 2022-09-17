@@ -1,5 +1,20 @@
 pmb reservation bot
-as of Saturday, September 17 12:55 PM:
+as of Saturday, September 17 01:00 PM:
+
+L'Artusi
+Table for 4
+09:45 PM
+Monday, September 19 (2 days from now)
+
+L'Artusi
+Table for 2
+10:30 PM
+Tuesday, September 20 (3 days from now)
+
+L'Artusi
+Table for 4
+09:45 PM
+Wednesday, September 21 (4 days from now)
 
 Blue Haven-West Village
 Table for 2
@@ -10,6 +25,31 @@ Lilia
 Table for 2
 09:15 PM
 Friday, September 23 (6 days from now)
+
+L'Artusi
+Table for 4
+09:30 PM
+Sunday, September 25 (8 days from now)
+
+L'Artusi
+Table for 4
+10:15 PM
+Monday, September 26 (9 days from now)
+
+L'Artusi
+Table for 2
+10:00 PM
+Tuesday, September 27 (10 days from now)
+
+L'Artusi
+Table for 4
+10:30 PM
+Thursday, September 29 (12 days from now)
+
+L'Artusi
+Table for 2
+10:30 PM
+Saturday, October 01 (14 days from now)
 
 4 Charles Prime Rib
 Table for 2
