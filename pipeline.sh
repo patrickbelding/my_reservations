@@ -2,7 +2,6 @@
 
 python3 /home/pi/current_reservations.py 
 
-GIT=`which git`
 REPO_DIR=/home/pi/github_pipeline
 cd ${REPO_DIR}
 git init
