@@ -6,6 +6,7 @@ cd ${REPO_DIR}
 git init
 git add .
 # get current time
-TIME=`date +%Y%m%d%H%M%S`
-git commit -m "commit at ${TIME}"
+# TIME=`date +%Y%m%d%H%M%S`
+# git commit -m "commit at ${TIME}"
+git commit -m "commit at `date +%Y%m%d%H%M%S`"
 git push -u origin master
