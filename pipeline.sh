@@ -9,3 +9,4 @@ git add .
 TIME=`date +%Y%m%d%H%M%S`
 git commit -m "commit at ${TIME}"
 git push -u origin master
+git pull
