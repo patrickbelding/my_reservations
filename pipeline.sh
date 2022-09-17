@@ -7,4 +7,3 @@ git init
 git add .
 git commit -m 'Updating List'
 git push -u origin master
-git pull
