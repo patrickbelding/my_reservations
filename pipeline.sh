@@ -7,5 +7,4 @@ git init
 git add .
 TIME=`date +%Y%m%d%H%M%S`
 git commit -m "commit at ${TIME}"
-git commit -m "commit"
 git push -u origin main
