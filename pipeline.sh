@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 GIT=`which git`
 REPO_DIR=/home/pi/github_pipeline
