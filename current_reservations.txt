@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Saturday, September 17 02:55 PM
+Last Updated Saturday, September 17 03:00 PM
 ------------
 
 Lilia
@@ -13,6 +13,11 @@ L'Artusi
 Table for 4
 09:45 PM
 Wednesday, September 21 (4 days from now)
+
+Lilia
+Table for 2
+07:45 PM
+Thursday, September 22 (5 days from now)
 
 Lilia
 Table for 2
