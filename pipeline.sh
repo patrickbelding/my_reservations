@@ -9,4 +9,4 @@ cd /home/pi/github_pipeline/
 /usr/bin/git push -u origin master
 /usr/bin/git pull
 /usr/bin/git fetch --all
-/usr/bin/git git update --all
+/usr/bin/git update --all
