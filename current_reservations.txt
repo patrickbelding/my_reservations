@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Sunday, September 18 02:00 PM
+Last Updated Sunday, September 18 02:05 PM
 ------------
 
 Lilia
@@ -51,6 +51,12 @@ Table for 2
 Dining Room
 09:00 PM
 Friday, September 30 (12 days from now)
+
+Lilia
+Table for 2
+Indoor
+05:00 PM
+Monday, October 03 (15 days from now)
 
 4 Charles Prime Rib
 Table for 2
