@@ -1,66 +1,66 @@
 ------------
 pmb reservation bot
 
-Last Updated Saturday, September 17 11:55 PM
+Last Updated Sunday, September 18 12:05 AM
 ------------
 
 Lilia
 Table for 2
 Patio
 07:15 PM
-Monday, September 19 (2 days from now)
+Monday, September 19 (1 days from now)
 
 L'Artusi
 Table for 4
 Indoor Dining
 09:45 PM
-Wednesday, September 21 (4 days from now)
+Wednesday, September 21 (3 days from now)
 
 Lilia
 Table for 2
 Piazza
 07:45 PM
-Thursday, September 22 (5 days from now)
+Thursday, September 22 (4 days from now)
 
 Lilia
 Table for 2
 Indoor
 09:15 PM
-Friday, September 23 (6 days from now)
+Friday, September 23 (5 days from now)
 
 L'Artusi
 Table for 4
 Indoor Dining 
 09:30 PM
-Sunday, September 25 (8 days from now)
+Sunday, September 25 (7 days from now)
 
 Lilia
 Table for 2
 Patio
 06:00 PM
-Monday, September 26 (9 days from now)
+Monday, September 26 (8 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Dining Room
 09:45 PM
-Saturday, October 15 (28 days from now)
+Saturday, October 15 (27 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Sunday, October 16 (29 days from now)
+Sunday, October 16 (28 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Sunday, October 16 (29 days from now)
+Sunday, October 16 (28 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Monday, October 17 (30 days from now)
+Monday, October 17 (29 days from now)
 
