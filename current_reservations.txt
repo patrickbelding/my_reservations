@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Sunday, September 18 10:45 AM
+Last Updated Sunday, September 18 10:50 AM
 ------------
 
 Lilia
@@ -45,6 +45,12 @@ Table for 2
 Patio
 06:00 PM
 Monday, September 26 (8 days from now)
+
+I Sodi
+Table for 2
+Dining Room
+09:00 PM
+Friday, September 30 (12 days from now)
 
 4 Charles Prime Rib
 Table for 2
