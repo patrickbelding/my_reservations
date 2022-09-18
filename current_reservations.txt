@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Sunday, September 18 04:05 PM
+Last Updated Sunday, September 18 04:10 PM
 ------------
 
 Lilia
@@ -45,6 +45,12 @@ Table for 2
 Patio
 06:00 PM
 Monday, September 26 (8 days from now)
+
+I Sodi
+Table for 2
+Dining Room
+05:00 PM
+Wednesday, September 28 (10 days from now)
 
 I Sodi
 Table for 2
