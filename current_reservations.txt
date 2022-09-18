@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Sunday, September 18 09:00 AM
+Last Updated Sunday, September 18 09:05 AM
 ------------
 
 Lilia
@@ -27,6 +27,12 @@ Table for 2
 Indoor
 09:15 PM
 Friday, September 23 (5 days from now)
+
+Don Angie
+Table for 2
+Indoor Table
+09:00 PM
+Saturday, September 24 (6 days from now)
 
 L'Artusi
 Table for 4
