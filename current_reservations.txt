@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Monday, September 19 10:00 AM
+Last Updated Monday, September 19 10:15 AM
 ------------
 
 Lilia
@@ -33,6 +33,12 @@ Table for 2
 Patio
 06:00 PM
 Monday, September 26 (7 days from now)
+
+Lilia
+Table for 2
+Indoor
+08:15 PM
+Tuesday, September 27 (8 days from now)
 
 I Sodi
 Table for 2
@@ -93,4 +99,10 @@ Table for 4
 Dining Room
 09:45 PM
 Tuesday, October 18 (29 days from now)
+
+Carbone
+Table for 2
+Amex Patio
+09:00 PM
+Wednesday, October 19 (30 days from now)
 
