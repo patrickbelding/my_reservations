@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Monday, September 19 08:50 AM
+Last Updated Monday, September 19 09:00 AM
 ------------
 
 Lilia
@@ -75,4 +75,16 @@ Table for 2
 Amex Patio
 09:00 PM
 Monday, October 17 (28 days from now)
+
+4 Charles Prime Rib
+Table for 2
+Patio
+07:00 PM
+Tuesday, October 18 (29 days from now)
+
+4 Charles Prime Rib
+Table for 4
+Dining Room
+09:45 PM
+Tuesday, October 18 (29 days from now)
 
