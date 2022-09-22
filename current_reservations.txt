@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Wednesday, September 21 08:15 PM
+Last Updated Wednesday, September 21 08:20 PM
 ------------
 
 Laser Wolf Brooklyn
@@ -10,23 +10,11 @@ Dining Room
 05:45 PM
 Thursday, September 22 (1 days from now)
 
-Lilia
-Table for 2
-Indoor
-09:15 PM
-Friday, September 23 (2 days from now)
-
 Don Angie
 Table for 2
 Indoor Table
 09:00 PM
 Saturday, September 24 (3 days from now)
-
-L'Artusi
-Table for 4
-Indoor Dining 
-09:30 PM
-Sunday, September 25 (4 days from now)
 
 Lilia
 Table for 2
