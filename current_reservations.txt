@@ -1,126 +1,126 @@
 ------------
 pmb reservation bot
 
-Last Updated Wednesday, September 21 11:55 PM
+Last Updated Thursday, September 22 12:00 AM
 ------------
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 05:45 PM
-Thursday, September 22 (1 days from now)
+Thursday, September 22 (0 days from now)
 
 Don Angie
 Table for 2
 Indoor Table
 09:00 PM
-Saturday, September 24 (3 days from now)
+Saturday, September 24 (2 days from now)
 
 Lilia
 Table for 2
 Patio
 06:00 PM
-Monday, September 26 (5 days from now)
+Monday, September 26 (4 days from now)
 
 Lilia
 Table for 2
 Indoor
 08:15 PM
-Tuesday, September 27 (6 days from now)
+Tuesday, September 27 (5 days from now)
 
 I Sodi
 Table for 2
 Dining Room
 05:00 PM
-Wednesday, September 28 (7 days from now)
+Wednesday, September 28 (6 days from now)
 
 I Sodi
 Table for 4
 Dining Room
 05:00 PM
-Thursday, September 29 (8 days from now)
+Thursday, September 29 (7 days from now)
 
 I Sodi
 Table for 2
 Dining Room
 09:00 PM
-Friday, September 30 (9 days from now)
+Friday, September 30 (8 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 08:30 PM
-Sunday, October 02 (11 days from now)
+Sunday, October 02 (10 days from now)
 
 Lilia
 Table for 2
 Indoor
 05:00 PM
-Monday, October 03 (12 days from now)
+Monday, October 03 (11 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 07:00 PM
-Wednesday, October 05 (14 days from now)
+Wednesday, October 05 (13 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Dining Room
 09:45 PM
-Saturday, October 15 (24 days from now)
+Saturday, October 15 (23 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Sunday, October 16 (25 days from now)
+Sunday, October 16 (24 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Sunday, October 16 (25 days from now)
+Sunday, October 16 (24 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Monday, October 17 (26 days from now)
+Monday, October 17 (25 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Tuesday, October 18 (27 days from now)
+Tuesday, October 18 (26 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Tuesday, October 18 (27 days from now)
+Tuesday, October 18 (26 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Wednesday, October 19 (28 days from now)
+Wednesday, October 19 (27 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 06:00 PM
-Thursday, October 20 (29 days from now)
+Thursday, October 20 (28 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:15 PM
-Friday, October 28 (37 days from now)
+Friday, October 28 (36 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:30 PM
-Saturday, October 29 (38 days from now)
+Saturday, October 29 (37 days from now)
 
