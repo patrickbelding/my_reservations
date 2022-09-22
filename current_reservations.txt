@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Thursday, September 22 04:40 AM
+Last Updated Thursday, September 22 04:45 AM
 ------------
 
 Laser Wolf Brooklyn
@@ -57,6 +57,12 @@ Table for 2
 Indoor
 05:00 PM
 Monday, October 03 (11 days from now)
+
+Laser Wolf Brooklyn
+Table for 2
+Dining Room
+08:30 PM
+Tuesday, October 04 (12 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
