@@ -1,26 +1,8 @@
 ------------
 pmb reservation bot
 
-Last Updated Tuesday, September 27 02:25 PM
+Last Updated Tuesday, September 27 02:35 PM
 ------------
-
-I Sodi
-Table for 4
-Dining Room
-05:00 PM
-Thursday, September 29 (2 days from now)
-
-Laser Wolf Brooklyn
-Table for 2
-Dining Room
-08:30 PM
-Sunday, October 02 (5 days from now)
-
-Lilia
-Table for 2
-Indoor
-05:00 PM
-Monday, October 03 (6 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
