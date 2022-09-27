@@ -1,96 +1,96 @@
 ------------
 pmb reservation bot
 
-Last Updated Monday, September 26 11:55 PM
+Last Updated Tuesday, September 27 12:00 AM
 ------------
 
 I Sodi
 Table for 4
 Dining Room
 05:00 PM
-Thursday, September 29 (3 days from now)
+Thursday, September 29 (2 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 08:30 PM
-Sunday, October 02 (6 days from now)
+Sunday, October 02 (5 days from now)
 
 Lilia
 Table for 2
 Indoor
 05:00 PM
-Monday, October 03 (7 days from now)
+Monday, October 03 (6 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 08:30 PM
-Tuesday, October 04 (8 days from now)
+Tuesday, October 04 (7 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 07:00 PM
-Wednesday, October 05 (9 days from now)
+Wednesday, October 05 (8 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Dining Room
 09:45 PM
-Saturday, October 15 (19 days from now)
+Saturday, October 15 (18 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Sunday, October 16 (20 days from now)
+Sunday, October 16 (19 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Sunday, October 16 (20 days from now)
+Sunday, October 16 (19 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Monday, October 17 (21 days from now)
+Monday, October 17 (20 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Tuesday, October 18 (22 days from now)
+Tuesday, October 18 (21 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Tuesday, October 18 (22 days from now)
+Tuesday, October 18 (21 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Wednesday, October 19 (23 days from now)
+Wednesday, October 19 (22 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 06:00 PM
-Thursday, October 20 (24 days from now)
+Thursday, October 20 (23 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:15 PM
-Friday, October 28 (32 days from now)
+Friday, October 28 (31 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:30 PM
-Saturday, October 29 (33 days from now)
+Saturday, October 29 (32 days from now)
 
