@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Friday, October 07 06:40 PM
+Last Updated Friday, October 07 06:45 PM
 ------------
 
 Blue Haven-West Village
@@ -45,6 +45,12 @@ Table for 4
 Dining Room
 09:45 PM
 Tuesday, October 18 (11 days from now)
+
+Blue Haven-West Village
+Table for 2
+Outside Thompson
+02:15 PM
+Wednesday, October 19 (12 days from now)
 
 Carbone
 Table for 2
