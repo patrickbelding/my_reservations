@@ -1,26 +1,8 @@
 ------------
 pmb reservation bot
 
-Last Updated Tuesday, October 11 02:55 PM
+Last Updated Tuesday, October 11 03:00 PM
 ------------
-
-4 Charles Prime Rib
-Table for 2
-Dining Room
-09:45 PM
-Saturday, October 15 (4 days from now)
-
-4 Charles Prime Rib
-Table for 2
-Patio
-07:00 PM
-Sunday, October 16 (5 days from now)
-
-4 Charles Prime Rib
-Table for 4
-Dining Room
-09:45 PM
-Sunday, October 16 (5 days from now)
 
 Carbone
 Table for 2
