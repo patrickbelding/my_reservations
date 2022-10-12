@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Wednesday, October 12 05:50 PM
+Last Updated Wednesday, October 12 06:05 PM
 ------------
 
 Carbone
@@ -33,6 +33,12 @@ Table for 2
 Amex Patio
 06:00 PM
 Thursday, October 20 (8 days from now)
+
+Stirling Tavern
+Table for 12
+Dining Room
+05:30 PM
+Friday, October 21 (9 days from now)
 
 Blue Haven-West Village
 Table for 2
