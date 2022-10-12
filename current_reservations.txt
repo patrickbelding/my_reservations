@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Tuesday, October 11 09:50 PM
+Last Updated Tuesday, October 11 09:55 PM
 ------------
 
 Carbone
@@ -33,12 +33,6 @@ Table for 2
 Amex Patio
 06:00 PM
 Thursday, October 20 (9 days from now)
-
-Blue Haven-West Village
-Table for 2
-Outside Thompson
-03:45 PM
-Monday, October 24 (13 days from now)
 
 The Bay House
 Table for 8
