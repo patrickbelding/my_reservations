@@ -1,66 +1,66 @@
 ------------
 pmb reservation bot
 
-Last Updated Thursday, October 13 11:50 PM
+Last Updated Friday, October 14 12:10 AM
 ------------
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Monday, October 17 (4 days from now)
+Monday, October 17 (3 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Patio
 07:00 PM
-Tuesday, October 18 (5 days from now)
+Tuesday, October 18 (4 days from now)
 
 4 Charles Prime Rib
 Table for 4
 Dining Room
 09:45 PM
-Tuesday, October 18 (5 days from now)
+Tuesday, October 18 (4 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 09:00 PM
-Wednesday, October 19 (6 days from now)
+Wednesday, October 19 (5 days from now)
 
 Carbone
 Table for 2
 Amex Patio
 06:00 PM
-Thursday, October 20 (7 days from now)
+Thursday, October 20 (6 days from now)
 
 Stirling Tavern
 Table for 12
 Dining Room
 05:30 PM
-Friday, October 21 (8 days from now)
+Friday, October 21 (7 days from now)
 
 Blue Haven-West Village
 Table for 2
 Outside Thompson
 02:15 PM
-Monday, October 24 (11 days from now)
+Monday, October 24 (10 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:15 PM
-Friday, October 28 (15 days from now)
+Friday, October 28 (14 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:30 PM
-Saturday, October 29 (16 days from now)
+Saturday, October 29 (15 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Dining Room
 05:15 PM
-Sunday, November 06 (24 days from now)
+Sunday, November 06 (23 days from now)
 
