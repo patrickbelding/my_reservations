@@ -1,7 +1,7 @@
 ------------
 pmb reservation bot
 
-Last Updated Friday, October 14 11:25 AM
+Last Updated Friday, October 14 11:30 AM
 ------------
 
 Carbone
@@ -39,12 +39,6 @@ Table for 12
 Dining Room
 05:30 PM
 Friday, October 21 (7 days from now)
-
-Blue Haven-West Village
-Table for 2
-Outside Thompson
-02:15 PM
-Monday, October 24 (10 days from now)
 
 The Bay House
 Table for 8
