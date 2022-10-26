@@ -1,36 +1,36 @@
 ------------
 pmb reservation bot
 
-Last Updated Tuesday, October 25 11:55 PM
+Last Updated Wednesday, October 26 12:05 AM
 ------------
 
 The Bay House
 Table for 8
 DINING ROOM
 05:15 PM
-Friday, October 28 (3 days from now)
+Friday, October 28 (2 days from now)
 
 The Bay House
 Table for 8
 DINING ROOM
 05:30 PM
-Saturday, October 29 (4 days from now)
+Saturday, October 29 (3 days from now)
 
 4 Charles Prime Rib
 Table for 2
 Dining Room
 05:15 PM
-Sunday, November 06 (12 days from now)
+Sunday, November 06 (11 days from now)
 
 Laser Wolf Brooklyn
 Table for 2
 Dining Room
 07:15 PM
-Wednesday, November 09 (15 days from now)
+Wednesday, November 09 (14 days from now)
 
 Via Carota
 Table for 2
 Indoor Dining Room
 04:45 PM
-Saturday, November 19 (25 days from now)
+Saturday, November 19 (24 days from now)
 
